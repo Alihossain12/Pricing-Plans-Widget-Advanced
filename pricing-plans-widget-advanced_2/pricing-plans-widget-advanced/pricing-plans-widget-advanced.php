@@ -3,7 +3,7 @@
  * Plugin Name: Pricing Plans Widget Advanced
  * Description: Elementor widget that preserves the original pricing HTML/CSS/JS but adds improved responsiveness and extra functionality.
  * Version: 1.1
- * Author: Your Name
+ * Author: ALI HOSSAIN
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
